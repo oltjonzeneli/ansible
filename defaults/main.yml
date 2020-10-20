@@ -1,4 +1,5 @@
 ---
 # defaults file for create_user.yml
 user_state: present
-user_name: default1
+user_name: default
+user_shell:/bin/sh
